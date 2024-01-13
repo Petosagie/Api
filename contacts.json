@@ -1,0 +1,65 @@
+[
+  {
+    "contact": {
+      "firstName": "Agbado",
+      "lastName": "Tinubu",
+      "email": "tinubuagbado@gmail.com",
+      "favoriteColor": "Red",
+      "birthday": "May 27, 1970"
+    }
+  },
+  {
+    "contact2": {
+      "firstName": "Peter",
+      "lastName": "Obi",
+      "email": "peterobia@gmail.com",
+      "favoriteColor": "Blue",
+      "birthday": "June 12, 1968"
+    }
+  },
+  {
+    "contact3": {
+      "firstName": "Donald",
+      "lastName": "Trump",
+      "email": "donaldtrump@gmail.com",
+      "favoriteColor": "Green",
+      "birthday": "January 14, 1980"
+    }
+  },
+  {
+    "contact4": {
+      "firstName": "Arya",
+      "lastName": "Stark",
+      "email": "aryastark@gmail.com",
+      "favoriteColor": "Purple",
+      "birthday": "July 17, 1982"
+    }
+  },
+  {
+    "contact5": {
+      "firstName": "Tyrion",
+      "lastName": "Lanister",
+      "email": "tyrionlanister@gmail.com",
+      "favoriteColor": "Red",
+      "birthday": "March 7, 1985"
+    }
+  },
+  {
+    "contact6": {
+      "firstName": "Night",
+      "lastName": "King",
+      "email": "nightking@gmail.com",
+      "favoriteColor": "White",
+      "birthday": "August 9, 1971"
+    }
+  },
+  {
+    "contact7": {
+      "firstName": "Godwin",
+      "lastName": "Obaseki",
+      "email": "godwinobaseki@gmail.com",
+      "favoriteColor": "Blue",
+      "birthday": "November 8, 1982"
+    }
+  }
+]
